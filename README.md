@@ -9,4 +9,5 @@ I'm pleased to share that through this approach, I successfully minimized the me
 
 For a deeper insight into my methodology and implementation, I've provided a link to the GitHub repository. 
 github_repository:  https://github.com/ANSHPG/LinearLuminary
+
 Thank you for your interest!
