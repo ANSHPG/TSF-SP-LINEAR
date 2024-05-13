@@ -7,7 +7,8 @@ During my internship at The Sparks Foundation, I was tasked with predicting stud
 
 I'm pleased to share that through this approach, I successfully minimized the mean absolute error to 4.97, with an alpha (speed of convergence) of around 1.0e-2.
 
-For a deeper insight into my methodology and implementation, I've provided a link to the GitHub repository. 
+For a deeper insight into my methodology and implementation, I've provided a link to the GitHub repository.
+
 github_repository:  https://github.com/ANSHPG/LinearLuminary
 
 Thank you for your interest!
